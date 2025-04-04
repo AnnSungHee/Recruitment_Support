@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"anonymization":["GAAAABEAAABodHRwczovL25hdmVyLmNvbQAAAA==",false],"server":"https://apis.naver.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL3BzdGF0aWMubmV0AA==",false],"server":"https://shared-whale.pstatic.net","supports_spdy":true}],"version":5},"network_qualities":{"CAISABiAgICA+P////8B":"4G"}}}

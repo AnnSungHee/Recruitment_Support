@@ -1,0 +1,8 @@
+[19684:2008:0403/171055.370:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[9316:20468:0403/171055.947:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[9316:20468:0403/171055.952:ERROR:direct_composition_support.cc(1070)] QueryInterface to IDCompositionDevice4 failed: 해당 인터페이스를 지원하지 않습니다. (0x80004002)
+[19684:2008:0403/171055.960:ERROR:chrome_browser_main_extra_parts_whale.cc(303)] Jumplist failed to be cleared for initial profile
+[19684:2008:0403/171056.037:ERROR:wbc_wrapper_apis.cc(207)] time is updated:8819159f9246232ed1299a7414448ab4
+[19684:2008:0403/171058.065:WARNING:whale_tweak_service.cc(217)] WhaleTweakService Json is wrong
+[11424:11280:0403/171255.463:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[19684:2008:0403/174417.136:ERROR:network_service_instance_impl.cc(613)] Network service crashed, restarting service.
