@@ -15,7 +15,7 @@ params = {
     'search_optional_item': 'y',
     'panel_count': 'y',
     'recruitSort': 'closing_dt',
-    'recruitPageCount': 40,
+    'recruitPageCount': 10,
     'recruitPage': 1
 }
 
